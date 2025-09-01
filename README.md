@@ -80,10 +80,5 @@ agenda-tarefas-java/
 
 📌 *Este repositório será atualizado conforme as fases do projeto forem sendo concluídas.*
 
-```
 
----
-
-👉 Quer que eu já monte também a **versão em inglês** do README (pra fortalecer seu perfil internacional no GitHub)?
-```
 
