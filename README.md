@@ -38,14 +38,14 @@ O projeto está sendo construído em fases:
 
 ---
 ## 📂 Estrutura Inicial
-
+```
 agenda-tarefas-java/
 │── src/
 │   └── main/java/
 │       └── AgendaTarefas.java
 │       └── Tarefa.java
 │── README.md
-
+```
 
 ---
 
